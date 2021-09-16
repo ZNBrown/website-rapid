@@ -14,6 +14,11 @@ nav {
     margin-right: auto;
 }
 
+button > a {
+    text-decoration: none;
+    color: #fff;
+}
+
 footer {
     padding-top: 20px;
     padding-bottom: 10px;
