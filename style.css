@@ -1,3 +1,28 @@
+
 nav {
+    background-color: orange;
+}
+
+#intro-container {
+    padding-bottom: 100px;
+}
+
+#home-content {
+    width: 70%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button > a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    line-height: 40px;
     background-color: orange;
 }
