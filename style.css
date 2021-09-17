@@ -19,6 +19,15 @@ button > a {
     color: #fff;
 }
 
+main {
+    background-color: darkorange;
+    padding: 20px;
+}
+
+article {
+    background-color: #fff;
+}
+
 footer {
     padding-top: 20px;
     padding-bottom: 10px;
